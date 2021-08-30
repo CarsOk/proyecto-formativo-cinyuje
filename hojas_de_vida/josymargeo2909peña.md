@@ -1,31 +1,31 @@
-# HOJA DE VIDA
+# Hoja de Vida
 
+<img src="imag/fotojos.jpg" width="100">
 
+## Perfil
 
-## PERFIL
+Soy una persona comprometida con el deber y cumplimiento hacia las cosas que realizo con compromiso exigencia hacia mí mismo, con una formación en técnico profesional en salud ocupacional la cual en el ámbito laboral mi desempeño como profesional en servicio al cliente y mesero teniendo como valores y virtudes el respeto responsabilidad y trabajo en equipo con un manejo en sistemas.
 
-soy una persona comprometida con el deber y cumplimiento hacia las cosas que realizo con compromiso exigencia hacia mí mismo, con una formación en técnico profesional en salud ocupacional la cual en el ámbito laboral mi desempeño como profesional en servicio al cliente y mesero teniendo como valores y virtudes el respeto responsabilidad y trabajo en equipo con un manejo en sistemas.
+### Informacion Personal
 
-### INFORMACION PERSONAL
-
-| DATOS | INFORMACION |
+| Datos | Informacion |
 | ---- | ---- |
-| Nombres | Josymar geovanys peña moscote |
+| Nombres | Josymar Geovanys Peña Moscote |
 | Documento de identidad | 1045685382 |
 | Fecha de nacimiento | 29-spt-1989 |
 | Ciudad de residencia | Soledad Atlantico |
 | Direccion | Calle 70c n 8-95 |
 | E-mail | josymargeo2909@gmail.com |
 
-### INFORMACION ACADEMICA 
+### Informacion Academica 
 
-| INSTITUCION | TITULO |
+| Institucion | Titulo |
 | ---- | ---- |
 | COVAMIN | Bachiller Academico |
 | SENA | Impresor offset |
 | CUL | Tecnico en Salud Ocupacional |
 
-### EXPERIENCIA LABORAL
+### Experiencia Laboral
 
 | Empresa | Cargo | Funcion |
 | ---- | ---- | ---- |
@@ -34,7 +34,7 @@ soy una persona comprometida con el deber y cumplimiento hacia las cosas que rea
 | Sak construccion | SISO | Vigilar promover la seguridad y el bienestar de los trabajadores |
 | Tiendas ara | Operador | Caja registradora, surtido, orgaanizacion y limpieza |
 
-### REFERENCIA PERSONALES 
+### Referencia Personales 
 
 | Nombre | Ocupacion | Contacto | E-mail |
 | ---- | ---- | ---- | ---- |
