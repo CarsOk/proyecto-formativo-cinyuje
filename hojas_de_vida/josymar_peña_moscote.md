@@ -1,6 +1,6 @@
 # Hoja de Vida
 
-<img src="imag/fotojos.jpg" width="100">
+<img src="img/fotojos.jpg" width="100">
 
 ## Perfil
 
