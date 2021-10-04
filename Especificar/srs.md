@@ -56,3 +56,12 @@ https://www.euroinnova.co/blog/definicion-de-programador
 
 
 https://www.crehana.com/co/blog/desarrollo-web/aplicacion-web-que-es/
+
+## Atencion y Dependencia
+
+| Area | Sistema Software donde va actuar |
+| ---- | ---- |
+| Administrativa | En esta área el sistema va funcionar donde el gerente o dueño va tener acceso a todos los módulos  software  hacer pedidos,  comprar la materia prima, el registro de usuarios y mostrar los productos de la microempresa. |
+| Operativa | Aquí el sistema actuara con todo lo relacionado con inventario, ubicación de productos y de la materia prima |
+| Atencion al cliente | el software procesa toda solicitud del cliente y sus necesidades con relación a los productos promoción para que los clientes de la microempresa puedan hacer sus pedidos |
+| Despacho | En esta área la persona se apoya en el sistema para el alistamiento del producto  y para la entrega al cliente cuantos productos salen. |
