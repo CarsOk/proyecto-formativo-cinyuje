@@ -24,4 +24,9 @@ _Sugey Berdugo_
 
 _Sugey Berdugo_
 
+### Requerimientos funcionales
+
+* Inicio de sesión ---> _Sugey Berdugo_
+
 ### [Stakeholders](stakeholders.md)
+
