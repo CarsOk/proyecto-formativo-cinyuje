@@ -75,7 +75,7 @@ https://www.crehana.com/co/blog/desarrollo-web/aplicacion-web-que-es/
 
 | Código | Nombre | Fecha | Grado necesidad |
 | --- | --- | --- | --- | 
-| RF001 | Inicio de sesión | 18/09/21 | Alto |
+| RF001 | **Inicio de sesión** | 18/09/21 | Alto |
 | **Descripción** | En este módulo los usuarios podrán iniciar sesión con correo electrónico y contraseña. Contará con botón de “Ingresar”. Y tendrán la opción de recuperar la contraseña. |
 | **Entradas** | **Fuente** | **Salida** | **Destino** | 
 |Correo electrónico | Base de datos | - Nombre completo - Foto de perfil | Menú principal, página de promoción.|
