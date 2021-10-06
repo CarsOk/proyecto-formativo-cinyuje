@@ -2,10 +2,12 @@
 
 ## Introducción
 
+El propósito del SRS es documentar los requisitos del sistema de información y los acuerdos a los que se lleguen entre el cliente y el equipo de desarrollo. Estos requisitos son indispensables para el desarrollo del sistema de información , estos se hacen para dejar claramente los requerimientos y necesidades establecidos por el cliente, este documento estará firmado por el cliente y el equipo de desarrollo, lo plasmado en este documento será lo que se llevará a cabo y se deberá cumplir por los analistas.
 
 
 ## Propósito
 
+El propósito del SRS es dejar documentado los acuerdos que se lleven entre el cliente y los analistas, en este proyecto formativo se diseñara, desarrollara e implementara un aplicativo web que cumpla con los requerimientos y especificaciones dadas por el cliente. Este SRS servirá como control para verificar la ejecución e implementación del sistema de información, que al cumplirse estas, ayudará a llevar un control de ventas e inventario en la microempresa cinyuje, una vez terminado el aplicativo web estará listo para ponerlo en marcha, este sistema de información estará desarrollado por el equipo de desarrollo (aprendices).
 
 
 ## Alcance
@@ -33,7 +35,6 @@ El alcance de este proyecto será la creación de un aplicativo web que permitir
 
 * Sistema de información: es un conjunto de componentes interrelacionados los cuales están compuestos por elementos sociales, técnicos y organizados para recolectar, procesar, ordenar, almacenar y convertir datos en información.
 
-
 * Aplicativo web: es un conjunto de páginas web que se adaptan para que varios usuarios puedan acceder a través de un servidor usando internet, por medio del navegador.
 
 * Desarrollador: un desarrollador es un programador. Se encarga de brindar soluciones para la creación de programas o aplicativos web. Estos tienen como deber, escribir y mantener el código. 
@@ -54,8 +55,8 @@ Conexionesan (2019, 12 de Noviembre). El uso del diagrama de flujo para la gesti
 Euroinnova Business School. (S.f). APRENDE LA DEFINICIÓN DE PROGRAMADOR DE COMPUTADORAS Y DE QUÉ TRATA ESTA INTERESANTE PROFESIÓN
 https://www.euroinnova.co/blog/definicion-de-programador
 
-
 https://www.crehana.com/co/blog/desarrollo-web/aplicacion-web-que-es/
+
 
 ## Atencion y Dependencia
 
