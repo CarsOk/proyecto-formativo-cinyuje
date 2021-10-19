@@ -82,3 +82,15 @@ https://www.crehana.com/co/blog/desarrollo-web/aplicacion-web-que-es/
 | **Restricciones** | El usuario no podrá tener acceso al sistema y sus funcionalidades si no se registra e inicia sesión.|
 |**Proceso**| Digitar correo electrónico y contraseña > Clic en botón “ingresar” > Verificación en la base de datos. Si los datos son correctos, se realiza el ingreso. De lo contrario, se muestra un mensaje al usuario, pidiendo que por favor verifique la información e intente nuevamente.> Si el usuario olvidó su contraseña de acceso, dará clic en “recuperar contraseña”.  En la misma interfaz se solicitará ingresar número de identificación, y correo electrónico. >  Una vez digite la información de manera correcta, se enviará detalles de recuperación.|
 | **Efecto colateral** | El usuario no podrá ingresar al sistema, no podrá tener acceso a todas las funcionalidades para realizar pedidos, Bloqueo por intentos fallidos, Cierre de sesión automático | 
+
+
+
+| Código | Nombre | Fecha | Grado necesidad |
+| --- | --- | --- | --- | 
+| RF003 | **Módulo de publicidad** | 18/09/21 | Alto |
+| **Descripción** | En este módulo el cliente tendrá la posibilidad de visualizar los diferentes productos disponibles, podrá observar foto, descripción, precio, y disponibilidad. |
+| **Entradas** | **Fuente** | **Salida** | **Destino** | 
+|-Barra de búsqueda -Seleccionar filtros por categorías de productos o servicios | Base de datos| Detalles y descripción de productos y ofertas -Cantidad disponible | Vista previa de productos y ofertas |
+| **Restricciones** | Solo se puede hacer pedido si se ha iniciado sesión en el sistema |
+|**Proceso**| Ingresar a la URL del sistema > Visualizar todos los productos > Hacer búsqueda por nombre de producto específico > Filtrar por categoría o fecha de publicación > Seleccionar producto > Vista previa. |
+| **Efecto colateral** | - No puede conocer los productos a detalle - No puede hacer pedidos| 

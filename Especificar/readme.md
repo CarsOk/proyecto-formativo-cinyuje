@@ -26,7 +26,8 @@ _Sugey Berdugo_
 
 ### Requerimientos funcionales
 
-* Inicio de sesión ---> _Sugey Berdugo_
+* Inicio de sesión, Módulo de publicidad ---> _Sugey Berdugo_
+
 
 ### [Stakeholders](stakeholders.md)
 
