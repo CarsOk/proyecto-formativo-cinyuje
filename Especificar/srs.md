@@ -104,8 +104,5 @@ https://www.crehana.com/co/blog/desarrollo-web/aplicacion-web-que-es/
 |Información de datos del sistema de información (productos, clientes, proveedores, pedidos)| Formulario de gestión de información (productos, clientes, proveedores, pedidos) | Menú principal de administrador | Base de datos |
 | **Restricciones** | Si no ingresa como usuario administrador, no podrá acceder a este módulo |
 |**Proceso**| > Dirigirse al menú principal > Clic en gestión de información > Escoger información a gestionar (productos, clientes, proveedores, pedidos) > Escoger opción (crear, leer, actualizar, eliminar) |
-| **Efecto colateral** | No podrá tener gestionar la información (productos, clientes, proveedores, pedidos)| 
-
-
-
-
+| **Efecto colateral** | No podrá tener gestionar la información (productos, clientes, proveedores, pedidos)|
+| **Efecto colateral** | - No puede conocer los productos a detalle - No puede hacer pedidos| 
