@@ -93,4 +93,15 @@ https://www.crehana.com/co/blog/desarrollo-web/aplicacion-web-que-es/
 |-Barra de búsqueda -Seleccionar filtros por categorías de productos o servicios | Base de datos| Detalles y descripción de productos y ofertas -Cantidad disponible | Vista previa de productos y ofertas |
 | **Restricciones** | Solo se puede hacer pedido si se ha iniciado sesión en el sistema |
 |**Proceso**| Ingresar a la URL del sistema > Visualizar todos los productos > Hacer búsqueda por nombre de producto específico > Filtrar por categoría o fecha de publicación > Seleccionar producto > Vista previa. |
-| **Efecto colateral** | - No puede conocer los productos a detalle - No puede hacer pedidos| 
+| **Efecto colateral** | - No puede conocer los productos a detalle - No puede hacer pedidos|
+
+
+| Código | Nombre | Fecha | Grado necesidad |
+| --- | --- | --- | --- | 
+| RF009 | **Gestión de Información (CRUD)** | 03/10/21 | Alto |
+| **Descripción** | En este módulo de gestión de información, los miembros administrativos tendrán la posibilidad de crear, leer, actualizar y borrar toda la información (productos, servicios, clientes, trabajadores, pedidos, proveedores) en el aplicativo web |
+| **Entradas** | **Fuente** | **Salida** | **Destino** | 
+|Información de datos del sistema de información (productos, clientes, proveedores, pedidos)| Formulario de gestión de información (productos, clientes, proveedores, pedidos) | Menú principal de administrador | Base de datos |
+| **Restricciones** | Si no ingresa como usuario administrador, no podrá acceder a este módulo |
+|**Proceso**| > Dirigirse al menú principal > Clic en gestión de información > Escoger información a gestionar (productos, clientes, proveedores, pedidos) > Escoger opción (crear, leer, actualizar, eliminar) |
+| **Efecto colateral** | No podrá tener gestionar la información (productos, clientes, proveedores, pedidos)|
