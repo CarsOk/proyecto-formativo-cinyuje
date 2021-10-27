@@ -6,7 +6,7 @@ Cinyuje es una microempresa dedicada a la elaboración y comercialización de to
 Cuentan con una persona encargada del trazo y corte de los materiales , un área encargada de hacer las compras de la materia prima, también una área encargada brindar atención al cliente y aclarar todas la dudas de los clientes , el personal de despacho y calidad se encargan de entregar un productos de la mejor calidad posible .
 El sr. Raúl es el dueño de la microempresa encargada de tomar las decisiones estratégicamente para vender y dar a conocer todos sus productos.
 
-## ***Identificación de procesos*** 
+## ***Identificación de procesos*** :
 
 1. Compras 
 2. Diseño 
@@ -22,7 +22,7 @@ El sr. Raúl es el dueño de la microempresa encargada de tomar las decisiones e
 12. Calidad 
 13. Alistamiento 
 
-## ***Inventario de procesos*** 
+## ***Inventario de procesos*** :
 
 1. Publicidad 
 2. Servicio al cliente 
@@ -60,17 +60,17 @@ El sr. Raúl es el dueño de la microempresa encargada de tomar las decisiones e
 
 ## **MACRO PROCESO DE APOYO** 
 
-|  |  | PROCESO DE COMPRAS |  |  |
+|  |  | <font size="5">PROCESO DE COMPRAS |  |  |
 |--- | --- | --- | --- | --- |
-| **OBJETIVO** | Controlar las actividades de compra de materia prima e información para la realización de productos como recordatorios, morrales y servicios para fiestas, que cumplan con los requisitos de la microempresa para cumplir las necesidades del cliente |
-| **ALCANCE** | Comienza desde el contacto con los proveedores hacer el pedido de acuerdo a las necesidades del cliente hasta la entrega de la materia prima |
-| **RESPONSABLE** | área administrativa señor Raul |
-| **PROVEEDORES** | **ENTRADAS** | **PROCEDIMIENTOS** | **SALIDAS** | **USUARIOS** |
+| <font size="4">**OBJETIVO** | Controlar las actividades de compra de materia prima e información para la realización de productos como recordatorios, morrales y servicios para fiestas, que cumplan con los requisitos de la microempresa para cumplir las necesidades del cliente |
+| <font size="4">**ALCANCE** | Comienza desde el contacto con los proveedores hacer el pedido de acuerdo a las necesidades del cliente hasta la entrega de la materia prima |
+| <font size="4">**RESPONSABLE** | área administrativa señor Raul |
+| <font size="4"><center>**PROVEEDORES** <center> | <font size="4"><center>**ENTRADAS**<center> |  <font size="4"><center>**PROCEDIMIENTOS** <center> |  <font size="4"><center>**SALIDAS** <center> |  <font size="4"><center>**USUARIOS** <center> |
 | Ventas | Formulario de productos | Detallar que producto o servicio quiere el cliente | Informe de producto o servicio de eventos | Administración |
 | Área de contabilidad | Ganancias y obligaciones pendientes | Balance presupuestal | Informe de presupuesto | Administración |
 | Administrativo | Orden de pago | Transferencia o pago | Factura o formato de pago | Contable |
-| **RECURSOS** | **DOCUMENTOS** | **REGISTROS** | **REQUISITOS** | **SEGUIMIENTO** |
+|  <font size="4"><center>**RECURSOS** <center> |  <font size="4"><center>**DOCUMENTOS** <center> |  <font size="4"><center>**REGISTROS** <center> |  <font size="4"><center>**REQUISITOS** <center> |  <font size="4"><center>**SEGUIMIENTO** <center> |
 | Planillas | Formularios de productos | Formulario de productos | Iso 9001 2015 | Toda compra que se realice debe contar con un documento de especificación de producto |
 | Recursos | Registro de pago | Factura de pago | Dian |
-| **INDICADOR** | **FORMULA** | **FRECUENCIA DE MEDICION** | **METAS** | **FECHA** |
+|  <font size="4"><center>**INDICADOR** <center> |  <font size="4"><center>**FORMULA** <center> |  <font size="4"><center>**FRECUENCIA DE MEDICION** <center> |  <font size="4"><center>**METAS** <center> |  <font size="4"><center>**FECHA** <center> |
 | Oportunidad de compra | Fecha de compra/Fecha de entrega | Trimestral | No debe de tardar más de 2 días después de la compra | Sept 21 |
