@@ -127,5 +127,5 @@ https://www.crehana.com/co/blog/desarrollo-web/aplicacion-web-que-es/
 | Código | Nombre | Fecha | Grado necesidad |
 | --- | --- | --- | --- | 
 | RNF003 | **Seguridad** | 23/09/21 | Alto |
-| **Efecto colateral** | No podrá tener gestionar la información (productos, clientes, proveedores, pedidos)|
+| **Descripción** | Es de suma importancia porque es algo que prima en todo sistema de información. Es por esto que para aplicarlo, se hará uso de una contraseña y correo electrónico con lo que cada usuario podrá tener su información segura dentro del sistema |
 
