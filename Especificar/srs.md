@@ -127,4 +127,5 @@ https://www.crehana.com/co/blog/desarrollo-web/aplicacion-web-que-es/
 | Código | Nombre | Fecha | Grado necesidad |
 | --- | --- | --- | --- | 
 | RNF003 | **Seguridad** | 23/09/21 | Alto |
-| **Descripción** | Se debe garantizar la seguridad de los datos ingresados por los usuarios, haciendo cumplir la ley 1266 de 2008 (habeas data) |
+| **Efecto colateral** | No podrá tener gestionar la información (productos, clientes, proveedores, pedidos)|
+
