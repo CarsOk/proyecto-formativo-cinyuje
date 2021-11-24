@@ -104,4 +104,28 @@ https://www.crehana.com/co/blog/desarrollo-web/aplicacion-web-que-es/
 |Información de datos del sistema de información (productos, clientes, proveedores, pedidos)| Formulario de gestión de información (productos, clientes, proveedores, pedidos) | Menú principal de administrador | Base de datos |
 | **Restricciones** | Si no ingresa como usuario administrador, no podrá acceder a este módulo |
 |**Proceso**| > Dirigirse al menú principal > Clic en gestión de información > Escoger información a gestionar (productos, clientes, proveedores, pedidos) > Escoger opción (crear, leer, actualizar, eliminar) |
-| **Efecto colateral** | No podrá tener gestionar la información (productos, clientes, proveedores, pedidos)|
+| **Efecto colateral** | No podrá tener gestionar la información (productos, clientes, proveedores, pedidos)| 
+
+
+
+### Requerimientos no funcionales 
+
+| Código | Nombre | Fecha | Grado necesidad |
+| --- | --- | --- | --- | 
+| RNF001 | **Desempeño** | 18/09/21 | Alto |
+| **Descripción** | El aplicativo web debe contar con un excelente rendimiento. El tiempo de carga debe ser máximo de cinco segundos. |
+
+
+
+| Código | Nombre | Fecha | Grado necesidad |
+| --- | --- | --- | --- | 
+| RNF002 | **Confidencialidad** | 18/09/21 | Alto |
+| **Descripción** | Se debe garantizar la seguridad de los datos ingresados por los usuarios, haciendo cumplir la ley 1266 de 2008 (habeas data) |
+
+
+
+| Código | Nombre | Fecha | Grado necesidad |
+| --- | --- | --- | --- | 
+| RNF003 | **Seguridad** | 23/09/21 | Alto |
+| **Descripción** | Es de suma importancia porque es algo que prima en todo sistema de información. Es por esto que para aplicarlo, se hará uso de una contraseña y correo electrónico con lo que cada usuario podrá tener su información segura dentro del sistema |
+
