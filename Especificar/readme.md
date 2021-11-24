@@ -31,3 +31,4 @@ _Sugey Berdugo_
 
 ### [Stakeholders](stakeholders.md)
 
+### [Mapa de Procesos](mapa_de_proceso.md)
