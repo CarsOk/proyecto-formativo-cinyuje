@@ -129,3 +129,17 @@ https://www.crehana.com/co/blog/desarrollo-web/aplicacion-web-que-es/
 | RNF003 | **Seguridad** | 23/09/21 | Alto |
 | **Descripción** | Es de suma importancia porque es algo que prima en todo sistema de información. Es por esto que para aplicarlo, se hará uso de una contraseña y correo electrónico con lo que cada usuario podrá tener su información segura dentro del sistema |
 
+### Requerimientos de interfaz de usuario
+
+
+| Código | Nombre | Fecha | Grado necesidad |
+| --- | --- | --- | --- | 
+| RI001 | **Interfaz de inicio de sesión** | 29/09/21 | Alto |
+| **Descripción** | La interfaz de inicio de sesión va a permitir al usuario acceder al sistema y hacer uso de sus funcionalidades, ingreso al menú principal, y la acción de realizar pedidos.Una vez el usuario ingresa al aplicativo web, podrá visualizar el botón de inicio de sesión en la parte superior derecha. Si se encuentra registrado, dará clic en iniciar sesión y visualizará la interfaz. La interfaz contará con espacios donde se solicitará al usuario digitar correo electrónico y contraseña, estos datos deben ser iguales a los que este digitó en su registro. En caso contrario, al hacer clic en el botón “iniciar sesión” saldrá un mensaje que dirá “(correo electrónico o contraseña) incorrecto/a. Por favor verifique la información e intente nuevamente". En caso de que el usuario olvide su contraseña, en la misma interfaz se contará con una opción llamada “recuperar contraseña”. Al hacer clic, al usuario se le pedirá digitar número de identificación y correo electrónico. Una vez añadida la información, podrá hacer clic en el botón enviar. Si la información coincide, al usuario se le enviará la información que le permitirá volver a acceder al aplicativo. Se mostrará el mensaje “Sus datos se han restablecido correctamente. Revise su correo electrónico.” Al cliente le llegará la información vía correo electrónico para restablecer su contraseña. Si los datos digitados por el cliente no son los correctos, se mostrará un mensaje indicando que la información añadida no es correcta, y este no podrá ingresar al sistema.|
+
+
+| Código | Nombre | Fecha | Grado necesidad |
+| --- | --- | --- | --- | 
+| RI003 | **Interfaz de publicidad** | 29/09/21 | Alto |
+| **Descripción** | En la interfaz de publicidad, el cliente tendrá la posibilidad de visualizar los diferentes productos disponibles; podrá observar su foto, descripción, precio, y disponibilidad. La interfaz de publicidad podrá ser visualizada una vez el cliente haga ingreso al aplicativo. En esta, tendrá la posibilidad de ver todos los productos y servicios ofrecidos. Podrá ver fácilmente cada uno de ellos y comparar entre sus diferentes características para que así pueda hacer su mejor elección. Existirá una barra donde podrá escribir para realizar búsqueda de productos específicos, teniendo la alternativa de conseguirlos por nombres, filtros de categoría o fecha de publicación  y de esta manera,  poder ver lo más reciente. Si el producto ingresado en la barra de búsqueda no existe en la base de datos, se mostrará un mensaje indicando que el producto no existe. Si existe, el cliente tendrá la posibilidad de seleccionar productos, que los dirigirá a la interfaz de pedidos.|
+
