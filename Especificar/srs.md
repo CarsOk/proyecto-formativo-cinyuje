@@ -84,6 +84,16 @@ https://www.crehana.com/co/blog/desarrollo-web/aplicacion-web-que-es/
 | **Efecto colateral** | El usuario no podrá ingresar al sistema, no podrá tener acceso a todas las funcionalidades para realizar pedidos, Bloqueo por intentos fallidos, Cierre de sesión automático | 
 
 
+| Código | Nombre | Fecha | Grado necesidad |
+| --- | --- | --- | --- | 
+| RF002 | **Registro de cliente y usuario** | 18/09/21 | Alto |
+| **Descripción** | En este módulo el cliente y/o usuario tendrán la posibilidad de registrarse en el aplicativo web |
+| **Entradas** | **Fuente** | **Salida** | **Destino** |
+| - Identificación -Fecha de nacimiento -Nombres y apellidos -Correo electrónico -Contraseña -Contacto telefónico -Celular -Dirección -Rol | Formulario de registro de cliente | Mensaje de confirmación | -Base de datos -Página de promoción de productos ofertas y descuentos |
+| **Restricciones** | El cliente no podrá escoger su rol o perfil en sistema, a diferencia del administrador. -Debe completar toda la información el usuario que no se encuentre registrado en el sistema |
+| **Proceso** |  Clic en el botón registro de cliente o usuario > Diligenciar el formulario registro de usuario > Diligenciar el formulario registro de cliente > Clic en el botón “Registrar” > Acceder a la página de oferta y promoción |
+| **Efecto colateral** | -	Mensaje de error > No puede ingresar al sistema > El cliente solo puede acceder al módulo promociones |
+
 
 | Código | Nombre | Fecha | Grado necesidad |
 | --- | --- | --- | --- | 
@@ -94,6 +104,17 @@ https://www.crehana.com/co/blog/desarrollo-web/aplicacion-web-que-es/
 | **Restricciones** | Solo se puede hacer pedido si se ha iniciado sesión en el sistema |
 |**Proceso**| Ingresar a la URL del sistema > Visualizar todos los productos > Hacer búsqueda por nombre de producto específico > Filtrar por categoría o fecha de publicación > Seleccionar producto > Vista previa. |
 | **Efecto colateral** | - No puede conocer los productos a detalle - No puede hacer pedidos|
+
+
+| Código | Nombre | Fecha | Grado necesidad |
+| --- | --- | --- | --- |
+| RF004 | **Módulo de pedidos** | 18/09/21 | Alto |
+| **Descripción** | Este módulo permitirá ver al cliente los pedidos realizados, que productos están en la cesta o carrito de compras. Con este módulo puede gestionar (crear, editar, borrar, listar) sus pedidos el cliente |
+| **Entradas** | **Fuente** | **Salida** | **Destino** |
+| -Resumen de pedido -Códigos o referencias -Precio de los productos -Disponibilidad de producto | Base de datos pedidos realizados | Productos seleccionados, disponibilidad de producto | -Vista de los artículos seleccionados -Reporte detallado sobre el pedido |
+| **Restricciones** | Solo pueden finalizar y visualizar el pedido los usuarios registrados |
+|**Proceso**| -Buscar la página de la empresa, Iniciar sesión -Seleccionar los productos, El sistema verifica la disponibilidad de producto -Escoger productos para el pedido, Vista de todos los pedidos seleccionados, Le notificara por un mensaje en pantalla que se acerque al punto de la empresa a hacer el pago |
+| **Efecto colateral** | No puede hacer los pedidos si no está registrado  > El pedido no podrá ser despachado si no está pagado, se debe acercar a las oficinas para hacer el pago y se elabore su pedido |
 
 
 | Código | Nombre | Fecha | Grado necesidad |
