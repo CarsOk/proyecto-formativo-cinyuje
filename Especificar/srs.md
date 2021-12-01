@@ -120,6 +120,18 @@ https://www.crehana.com/co/blog/desarrollo-web/aplicacion-web-que-es/
 
 | Código | Nombre | Fecha | Grado necesidad |
 | --- | --- | --- | --- | 
+| RF007 | **Módulo de PQRS** | 30/09/21 | Alto |
+| **Descripción** | Este módulo permite al usuario realizar peticiones, quejas, reclamos y sugerencias |
+| **Entradas** | **Fuente** | **Salida** | **Destino** | 
+|Correo electrónico contraseña| Formulario de PQRS |Se comunicaría con un encargado| Base de datos o correo electrónico al administrador |
+| **Restricciones** | Solo los usuarios registrados tendrán acceso a el módulo de PQRS |
+|**Proceso**| Inicio de sesión > Dirigirse a la parte inferior de la página > Seleccionar la opción de PQRS > Escribir la sugerencia o el problema > Esperar la respuesta. |
+| **Efecto colateral** | Solo clientes registrados podrán hacer solicitud de PQRS - Solo el administrador podrá ver estas solicitudes |
+
+
+
+| Código | Nombre | Fecha | Grado necesidad |
+| --- | --- | --- | --- | 
 | RF009 | **Gestión de Información (CRUD)** | 03/10/21 | Alto |
 | **Descripción** | En este módulo de gestión de información, los miembros administrativos tendrán la posibilidad de crear, leer, actualizar y borrar toda la información (productos, servicios, clientes, trabajadores, pedidos, proveedores) en el aplicativo web |
 | **Entradas** | **Fuente** | **Salida** | **Destino** | 
