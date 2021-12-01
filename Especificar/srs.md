@@ -180,5 +180,11 @@ https://www.crehana.com/co/blog/desarrollo-web/aplicacion-web-que-es/
 
 | Código | Nombre | Fecha | Grado necesidad |
 | --- | --- | --- | --- | 
+| RI005 | **Interfaz de PQRS** | 04/10/21 | Alto |
+| **Descripción** |En esta interfaz de PQRS, el cliente entrara a la página de la microempresa después ingresa su usuario y contraseña. Irá al menú del cliente, le dará clic en parte inferior donde se encuentra el botón de PQRS, en ese momento le desplegará un formulario de PQRS donde colocará su nombre completo, identificación, fecha y la petición queja sugerencia y reclamo que tenga el cliente. Por último, le dará clic en enviar formulario. Le saldrá un mensaje “enviado correctamente” de lo contrario le saldrá error si no está lleno un campo obligatorio.|
+
+
+| Código | Nombre | Fecha | Grado necesidad |
+| --- | --- | --- | --- | 
 | RI009 | **Interfaz de Gestión de Información (CRUD)** | 04/10/21 | Alto |
 | **Descripción** | En esta interfaz el administrador podrá crear, actualizar o borrar información de clientes, trabajadores, productos y servicios de eventos. Donde el administrador ingresa a la página de la microempresa por medio de una url, después ingresa su usuario y contraseña y ahí lo dirige al menú principal. Después, le dará clic en el botón gestión de información, se desplegará un menú con varias opciones de información de productos, de clientes, trabajadores y servicios de eventos, donde podrá modificar crear y actualizar todos estos datos.|
