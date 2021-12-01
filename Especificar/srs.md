@@ -119,6 +119,28 @@ https://www.crehana.com/co/blog/desarrollo-web/aplicacion-web-que-es/
 
 
 | Código | Nombre | Fecha | Grado necesidad |
+| --- | --- | --- | --- |
+| RF005 | **Módulo de administrador** | 05/10/2021 | Alto |
+| **Descripción** | En este módulo el administrador podrá gestionar y tener acceso a los módulos del sistema (inventario, consulta, pedidos, gestión, ayuda, etc.) para gestionar toda la información del aplicativo web |
+| **Entradas** | **Fuente** | **Salida** | **Destino** |
+| - Inicio de sesión  - Contraseña - Correo electrónico - Foto de usuario  - Perfil | Información de la base de datos | - Inicio de sesión,  Contraseña > Correo electrónico > Foto de usuario,   Perfil | - Inventario > Pedidos > Ayudas, Gestión de información > Consulta > PQRS |
+| **Restricciones** | Solo el administrador puede acceder a este módulo |
+| **Proceso** | >	Módulo de administrador >	Clic en el módulo a dirigirse >	Lo llevará al módulo que se haya seleccionado |
+| **Efecto colateral** |  Si no es administrador no podrá acceder |
+
+
+| Código | Nombre | Fecha | Grado necesidad |
+| --- | --- | --- | --- | 
+| RF006 | **Módulo de Manejo de Inventario** | 30/09/21 | Alto |
+| **Descripción** | Este módulo permitirá llevar un control de inventarios de cada uno de los productos por su descripción, referencia, precio, cantidad, stock disponible y así mismo este arroje un mensaje de notificación donde muestre cuántos productos hay en existencia y cuántos se han vendido. |
+| **Entradas** | **Fuente** | **Salida** | **Destino** |
+| Lista de productos > Código del producto | Base de datos | Inventario del Producto •ID •Descripción •Referencia •Precio | •Stock Disponible •Existencias Iniciales •Cantidad Comprada •Cantidad de Pedidos •Cantidad Vendida | 
+| **Restricciones** | El administrador y el encargado del área de despachos podrán acceder y tener información del inventario de la microempresa. |
+|**Proceso**| • Clic Botón  • Lista de Productos • Ingrese el Código del Producto  • Base de Datos • Inventario del Producto • ID del Producto • Descripción • Referencia • Precio • Stock Disponible • Cantidad Existentes • Existencias Iniciales • Cantidad Comprada • Cantidad Vendida |
+| **Efecto colateral** | No puede acceder al stock de inventarios para obtener información detallada de los productos, sólo los trabajadores que estén registrados en el sistema o quien haga las veces del encargado. |
+
+
+| Código | Nombre | Fecha | Grado necesidad |
 | --- | --- | --- | --- | 
 | RF007 | **Módulo de PQRS** | 30/09/21 | Alto |
 | **Descripción** | Este módulo permite al usuario realizar peticiones, quejas, reclamos y sugerencias |
