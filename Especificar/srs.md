@@ -120,6 +120,18 @@ https://www.crehana.com/co/blog/desarrollo-web/aplicacion-web-que-es/
 
 | Código | Nombre | Fecha | Grado necesidad |
 | --- | --- | --- | --- | 
+| RF007 | **Módulo de PQRS** | 30/09/21 | Alto |
+| **Descripción** | Este módulo permite al usuario realizar peticiones, quejas, reclamos y sugerencias |
+| **Entradas** | **Fuente** | **Salida** | **Destino** | 
+|Correo electrónico contraseña| Formulario de PQRS |Se comunicaría con un encargado| Base de datos o correo electrónico al administrador |
+| **Restricciones** | Solo los usuarios registrados tendrán acceso a el módulo de PQRS |
+|**Proceso**| Inicio de sesión > Dirigirse a la parte inferior de la página > Seleccionar la opción de PQRS > Escribir la sugerencia o el problema > Esperar la respuesta. |
+| **Efecto colateral** | Solo clientes registrados podrán hacer solicitud de PQRS - Solo el administrador podrá ver estas solicitudes |
+
+
+
+| Código | Nombre | Fecha | Grado necesidad |
+| --- | --- | --- | --- | 
 | RF009 | **Gestión de Información (CRUD)** | 03/10/21 | Alto |
 | **Descripción** | En este módulo de gestión de información, los miembros administrativos tendrán la posibilidad de crear, leer, actualizar y borrar toda la información (productos, servicios, clientes, trabajadores, pedidos, proveedores) en el aplicativo web |
 | **Entradas** | **Fuente** | **Salida** | **Destino** | 
@@ -164,6 +176,12 @@ https://www.crehana.com/co/blog/desarrollo-web/aplicacion-web-que-es/
 | --- | --- | --- | --- | 
 | RI003 | **Interfaz de publicidad** | 29/09/21 | Alto |
 | **Descripción** | En la interfaz de publicidad, el cliente tendrá la posibilidad de visualizar los diferentes productos disponibles; podrá observar su foto, descripción, precio, y disponibilidad. La interfaz de publicidad podrá ser visualizada una vez el cliente haga ingreso al aplicativo. En esta, tendrá la posibilidad de ver todos los productos y servicios ofrecidos. Podrá ver fácilmente cada uno de ellos y comparar entre sus diferentes características para que así pueda hacer su mejor elección. Existirá una barra donde podrá escribir para realizar búsqueda de productos específicos, teniendo la alternativa de conseguirlos por nombres, filtros de categoría o fecha de publicación  y de esta manera,  poder ver lo más reciente. Si el producto ingresado en la barra de búsqueda no existe en la base de datos, se mostrará un mensaje indicando que el producto no existe. Si existe, el cliente tendrá la posibilidad de seleccionar productos, que los dirigirá a la interfaz de pedidos.|
+
+
+| Código | Nombre | Fecha | Grado necesidad |
+| --- | --- | --- | --- | 
+| RI005 | **Interfaz de PQRS** | 04/10/21 | Alto |
+| **Descripción** |En esta interfaz de PQRS, el cliente entrara a la página de la microempresa después ingresa su usuario y contraseña. Irá al menú del cliente, le dará clic en parte inferior donde se encuentra el botón de PQRS, en ese momento le desplegará un formulario de PQRS donde colocará su nombre completo, identificación, fecha y la petición queja sugerencia y reclamo que tenga el cliente. Por último, le dará clic en enviar formulario. Le saldrá un mensaje “enviado correctamente” de lo contrario le saldrá error si no está lleno un campo obligatorio.|
 
 
 | Código | Nombre | Fecha | Grado necesidad |
