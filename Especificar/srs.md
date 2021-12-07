@@ -151,7 +151,6 @@ https://www.crehana.com/co/blog/desarrollo-web/aplicacion-web-que-es/
 | **Efecto colateral** | Solo clientes registrados podrán hacer solicitud de PQRS - Solo el administrador podrá ver estas solicitudes |
 
 
-
 | Código | Nombre | Fecha | Grado necesidad |
 | --- | --- | --- | --- | 
 | RF009 | **Gestión de Información (CRUD)** | 03/10/21 | Alto |
@@ -162,6 +161,15 @@ https://www.crehana.com/co/blog/desarrollo-web/aplicacion-web-que-es/
 |**Proceso**| > Dirigirse al menú principal > Clic en gestión de información > Escoger información a gestionar (productos, clientes, proveedores, pedidos) > Escoger opción (crear, leer, actualizar, eliminar) |
 | **Efecto colateral** | No podrá tener gestionar la información (productos, clientes, proveedores, pedidos)| 
 
+| Código | Nombre | Fecha | Grado necesidad |
+| --- | --- | --- | --- | 
+| RF010 | **Módulo de Ayuda** | 05/10/21 | Alto |
+| **Descripción** | Se visualizará una ayuda para saber cómo hacer uso de las funcionalidades del sistema (inicio de sesión, registro de clientes, usuarios, inventario, gestión de información, consulta y pedidos)  |
+| **Entradas** | **Fuente** | **Salida** | **Destino** | 
+|Selección del cliente(inicio de sesión, registro de clientes, usuarios, inventario, gestión de información, consulta y pedidos) |   Base de datos |PDF | Interfaz con la información de ayuda requerida|
+| **Restricciones** | Ninguna |
+|**Proceso**|  Clic botón de ayuda (signo de interrogación) > Menú con nombres de módulos > Clic en el módulo en el que requiere ayuda > Interfaz de información del módulo requerido para la guía del proceso|
+| **Efecto colateral** | Ninguno |
 
 
 ### Requerimientos no funcionales 
