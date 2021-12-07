@@ -153,6 +153,17 @@ https://www.crehana.com/co/blog/desarrollo-web/aplicacion-web-que-es/
 
 | Código | Nombre | Fecha | Grado necesidad |
 | --- | --- | --- | --- | 
+| RF008 | **Módulo de consulta** | 3/10/21 | Alto |
+| **Descripción** | Este módulo permitirá a los trabajadores y administrador consultar y tener reportes toda la información del aplicativo web |
+| **Entradas** | **Fuente** | **Salida** | **Destino** |
+| Búsqueda de información (usuarios, proveedores, pedidos, fecha de entrega, estado del pedido, reportes del sistema en general) | Información de la base de datos (tablas) | Información solicitada de la consulta | Interfaz de la consulta realizada | 
+| **Restricciones** | Solo pueden visualizar la información usuarios como trabajadores y administrador |
+| **Proceso** | 	Iniciar sesión  >	Ir a consulta > 	Filtrar por información >   	Clic en consultar >	Botón de reporte >  	Imprimir reporte de la consulta | 
+| **Efecto colateral** | Si no hay información sobre lo consultado mostrará un mensaje que no se ha encontrado información que coincida con la búsqueda |
+
+
+| Código | Nombre | Fecha | Grado necesidad |
+| --- | --- | --- | --- | 
 | RF009 | **Gestión de Información (CRUD)** | 03/10/21 | Alto |
 | **Descripción** | En este módulo de gestión de información, los miembros administrativos tendrán la posibilidad de crear, leer, actualizar y borrar toda la información (productos, servicios, clientes, trabajadores, pedidos, proveedores) en el aplicativo web |
 | **Entradas** | **Fuente** | **Salida** | **Destino** | 
